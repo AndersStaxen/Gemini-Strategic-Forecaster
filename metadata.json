@@ -1,0 +1,5 @@
+{
+  "name": "Strategic Forecaster",
+  "description": "Analyzes news events using the PEST framework to predict second and third-order effects.",
+  "requestFramePermissions": []
+}
